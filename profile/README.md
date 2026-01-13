@@ -17,11 +17,10 @@
 
 ## For AI Agents
 
-Add to your `CLAUDE.md`:
+Add one line per tool to your system prompt:
 
-```markdown
-## CLI Tools
-
-`claude-sessions help` - manage sessions/agents
+```
 `discord-notify --help` - contact user via Discord
 ```
+
+The `--help` is all an agent needs to discover and use the tool.
