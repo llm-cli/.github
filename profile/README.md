@@ -7,6 +7,7 @@
 - **Token-efficient**: Concise output, minimal noise
 - **Intuitive**: `--help` is all an agent needs
 - **Unix-friendly**: Composable, scriptable, pipe-able
+- **Lightweight**: No MCP overhead, just bash
 
 ## Tools
 
