@@ -13,6 +13,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [chromium-cli](https://github.com/llm-cli/chromium-cli) | Control Chromium browsers (Chrome, Brave, Edge) from CLI |
 | [claude-sessions](https://github.com/llm-cli/claude-sessions) | Manage Claude Code sessions and agents |
 | [discord-notify](https://github.com/llm-cli/discord-notify) | Communicate with users via Discord DM |
 
